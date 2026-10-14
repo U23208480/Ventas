@@ -7,7 +7,7 @@ Sistema de ventas. Este repositorio contiene el tablero de actividades del equip
 - Alberto Joel Ramirez Ponte - U23249035
 
 ## Contenido
-- [TABLERO.md](TABLERO.md): tablero con 13 actividades, responsable, estado inicial, prioridad, fecha de entrega, criterio de cierre, evidencia y dependencias.
+- [TABLERO.md](TABLERO.md): tablero con 12 actividades (responsable, estado, prioridad, fechas, criterio de cierre, evidencia y dependencias). El tablero Kanban está en la pestaña Projects del repositorio y cada tarjeta es un issue.
 
 ## Flujo de trabajo
 - `main`: versión estable.
